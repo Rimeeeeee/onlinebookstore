@@ -1,0 +1,3 @@
+Online Book Store is a backend project book directory  which allows to provide the name,genre,status,author of the book along with the local storage path to provide easy accesibility. It allows CRUD  application through which the components can be easily created,updated,modified and deleted. The APIs work fine in Postman.
+It is developed with fundamental knowledge of Nodejs, Expressjs and MongoDB.
+The preview design of the project is created with HTML and CSS.

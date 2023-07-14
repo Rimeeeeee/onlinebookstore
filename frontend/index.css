@@ -1,0 +1,83 @@
+html, body {
+    min-height: 100%;
+    min-width: 80%;
+    text-align: center;
+    margin: 5pt;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 6pt;
+    background-image:url(./Light-color-brochure-background-free-download-scaled.jpg);
+    
+    
+    
+}
+input {
+    width: 25%;
+    margin-left: 8%;
+    padding: auto;
+    border-radius: 5pt;
+    border-color: blueviolet;
+  }
+  button {
+    background-color: #4CAF50; /* Green */
+    border-color: white;
+    color: white;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 90%;
+    margin: 5px;
+    size: 10px;
+    border-radius: 15%;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  }
+  #btn-2{
+    background-color:turquoise;
+  color:white;
+  
+  }
+  #p2,#p4{
+    color:blue;
+
+  }
+  #p6{
+    color:orangered;
+  }
+  #p8{
+    color:green;
+  }
+  #bm1,#bm2,#bm3,#bm4{
+        width: 20%;
+        background-color: aliceblue;
+        border-color: aqua;
+        color: aqua;
+        margin-bottom: 10pt;
+  }
+  
+    #btn-3,#btn-5,#btn-7,#btn-9{
+        background-color:red;
+        color:aliceblue;
+        width:5%;
+    }
+    #btn-4,#btn-6,#btn-8,#btn-10{
+        background-color:yellow;
+        color:blue;
+        width:5%;
+    }
+    h1{
+        color: rgb(88, 6, 164);
+        text-shadow: 5cqi;
+    }
+    h4{
+        color:purple;
+        background-color: plum;
+    }
+    i{
+
+        color: black;
+    }
+    h3{
+        color:orangered;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+        
